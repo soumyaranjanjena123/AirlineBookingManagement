@@ -1,0 +1,14 @@
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.AssemblyInfoInputs.cache
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.AssemblyInfo.cs
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.csproj.CoreCompileInputs.cache
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\bin\Debug\net8.0\AirlineTicket.exe
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\bin\Debug\net8.0\AirlineTicket.deps.json
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\bin\Debug\net8.0\AirlineTicket.runtimeconfig.json
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\bin\Debug\net8.0\AirlineTicket.dll
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\bin\Debug\net8.0\AirlineTicket.pdb
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.dll
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\refint\AirlineTicket.dll
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.pdb
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\AirlineTicket.genruntimeconfig.cache
+C:\Users\soumy\source\repos\AirlineTicket\AirlineTicket\obj\Debug\net8.0\ref\AirlineTicket.dll
